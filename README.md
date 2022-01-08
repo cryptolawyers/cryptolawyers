@@ -22,7 +22,15 @@
 
 <br />
 <br />
+---
+<br />
 
+### Support me:
+[<img align="left" alt="Buy Me a Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/buymeacoffee.svg" />][buymeacoffee]
+[<img align="left" alt="Bitcoin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bitcoin.svg" />][Bitcoin]
+<br />
+
+---
 ---
 
 ### 📺 Latest YouTube Videos
