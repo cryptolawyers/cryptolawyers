@@ -9,7 +9,7 @@
 - 🔭 I launched a course at Cambridge University on law & cryptoassets/DLT/DeFi/DAOs and artificial intelligence. I write a weekly newsletter on crypto/DeFi/DAOs/CBDC/DLT & law
 - 🌱 I’m currently learning... a lot, every day, about many different things
 - 👯 I’m looking to collaborate with tech and non-tech people interested in DeFi and DAOs
-- 🥅 2021 Goals: delve into DAOs, learn to code & much more
+- 🥅 2022 Goals: delve into DAOs, learn to code & much more
 - ⚡ Fun fact: I practice Fujian White Crane Kung Fu
 
 ### Connect with me:
