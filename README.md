@@ -26,8 +26,8 @@
 <br />
 
 ### Support me:
-[<img align="left" alt="Buy Me a Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/buymeacoffee.svg" />][https://www.buymeacoffee.com/cryptolaw]
-[<img align="left" alt="Bitcoin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bitcoin.svg" />][https://polygonscan.com/address/0x37628d203E6c60498d39084C81c8ea7569BDF116]
+[<img align="left" alt="Buy Me a Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/buymeacoffee.svg" />][]
+[<img align="left" alt="Bitcoin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bitcoin.svg" />]
 <br />
 
 ---
