@@ -51,9 +51,10 @@
 
 ➡️ [more blog posts...]( https://www.cryptolaw.one/blog/)
 
-
 [website]: https://cryptolaw.substack.com/
 [twitter]: https://twitter.com/cryptolaw_news
 [youtube]: https://www.youtube.com/channel/UCfZ66QR-TT4iOFXvHWT2K8g
-[linkedin]: https://www.linkedin.com/company/cryptolaw-news 
-[gitcoinsponsor]: https://gitcoin.co/grants/4193/cryptolaw-educates-lawmakers-on-crypto-defi-and-d     
+[linkedin]: https://www.linkedin.com/company/cryptolaw-news
+[Bitcoin]: https://polygonscan.com/address/0x37628d203E6c60498d39084C81c8ea7569BDF116 
+[buymeacoffee]: https://www.buymeacoffee.com/cryptolaw
+[gitcoinsponsor]: https://gitcoin.co/grants/4193/cryptolaw-educates-lawmakers-on-crypto-defi-and-d         
